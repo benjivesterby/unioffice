@@ -11,8 +11,6 @@ require (
 	github.com/stretchr/testify v1.8.0
 	github.com/unidoc/unipdf/v3 v3.37.0
 	github.com/unidoc/unitype v0.4.0
-	golang.org/x/image v0.0.0-20220722155232-062f8c9fd539 // indirect
-	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
-	golang.org/x/text v0.4.0 // indirect
+	golang.org/x/image v0.10.0
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 )
